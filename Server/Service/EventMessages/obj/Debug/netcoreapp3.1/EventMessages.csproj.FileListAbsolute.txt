@@ -1,0 +1,9 @@
+C:\Users\vaisa\source\repos\Service\EventMessages\bin\Debug\netcoreapp3.1\EventMessages.deps.json
+C:\Users\vaisa\source\repos\Service\EventMessages\bin\Debug\netcoreapp3.1\EventMessages.dll
+C:\Users\vaisa\source\repos\Service\EventMessages\bin\Debug\netcoreapp3.1\EventMessages.pdb
+C:\Users\vaisa\source\repos\Service\EventMessages\obj\Debug\netcoreapp3.1\EventMessages.AssemblyInfoInputs.cache
+C:\Users\vaisa\source\repos\Service\EventMessages\obj\Debug\netcoreapp3.1\EventMessages.AssemblyInfo.cs
+C:\Users\vaisa\source\repos\Service\EventMessages\obj\Debug\netcoreapp3.1\EventMessages.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\Service\EventMessages\obj\Debug\netcoreapp3.1\EventMessages.dll
+C:\Users\vaisa\source\repos\Service\EventMessages\obj\Debug\netcoreapp3.1\EventMessages.pdb
+C:\Users\vaisa\source\repos\Service\EventMessages\obj\Debug\netcoreapp3.1\EventMessages.csproj.AssemblyReference.cache

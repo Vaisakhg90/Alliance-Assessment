@@ -1,0 +1,40 @@
+<div class="container">
+    <div class="row">
+    <h3>Product Detail</h3>
+    </div>
+    <div class="row">
+        <div class="col-sl-6">
+            <h6>Id:</h6>
+        </div>
+        <div class="col">
+            <p>{{product.id}}</p>
+        </div>      
+    </div>
+    <div class="row">
+        <div class="col-sl-6">
+            <h6>Name:</h6>
+        </div>
+        <div class="col">
+            <p>{{product.productName}}</p>
+        </div>
+    </div>
+<div class="row">
+        <div class="col-sl-6">
+            <h6>Entry Date:</h6>
+        </div>
+        <div class="col">
+            <p>{{product.entryDate |  date:'dd MMMM YYYY'}}</p>
+        </div>
+    </div>
+<div class="row">
+        <div class="col-sl-6">
+            <h6>Price for today (incl. reduction):</h6>
+        </div>
+        <div class="col">
+            <p>{{product.priceWithReduction | currency:'EUR':true}}</p>
+        </div>
+    </div>
+    <div class="row">
+        <a class="btn btn-primary" [routerLink]="['/product']">Back</a>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+<table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col" colspan="2">Product List</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let p of productList; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td>
+        <a [routerLink]="['/product-details',p.id]">
+        {{ p.productName }} </a>
+      </td>
+    </tr>
+    </tbody>
+  </table>
