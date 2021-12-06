@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AllianceAssessment\\Server\\Service\\Service\\Service.csproj": {}
+    "C:\\Projects\\Alliance Assessment\\Server\\Service\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj": {
+    "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
+        "projectUniqueName": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
         "projectName": "EventMessages",
-        "projectPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
+        "projectPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
         "packagesPath": "C:\\Users\\vaisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\obj\\",
+        "outputPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Projects\\AllianceAssessment\\Server\\Service\\Service\\Service.csproj": {
+    "C:\\Projects\\Alliance Assessment\\Server\\Service\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AllianceAssessment\\Server\\Service\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Projects\\Alliance Assessment\\Server\\Service\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\Service\\Service.csproj",
+        "projectPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\vaisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\Service\\obj\\",
+        "outputPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj": {
-                "projectPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj"
+              "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj": {
+                "projectPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj"
               }
             }
           }

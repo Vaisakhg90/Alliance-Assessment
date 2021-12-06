@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
+      "projectUniqueName": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
       "projectName": "EventMessages",
-      "projectPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
+      "projectPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
       "packagesPath": "C:\\Users\\vaisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\obj\\",
+      "outputPath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaisa\\AppData\\Roaming\\NuGet\\NuGet.Config",

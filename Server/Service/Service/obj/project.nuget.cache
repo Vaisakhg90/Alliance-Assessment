@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/Ih0cXhljommAb/C9CC86oUN95Gk3hP9zZhcpxr5NzfUe8ZF88h4nwxuC8yIrDVvWhNkyUn7yAqd5xMjPQoAg==",
+  "dgSpecHash": "hD1kwmy4x/8AQoGS20+YxBtFoChR6VjvE/PZkcYTBv9KMpxhyTf9GNVCt1DsLBN6Zsv1zq/VUo8VUvqneC8AGQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vaisa\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\vaisa\\.nuget\\packages\\easynetq\\6.3.1\\easynetq.6.3.1.nupkg.sha512",

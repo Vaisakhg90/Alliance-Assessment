@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Users\vaisa\source\repos\Service\EventMessages\EventMessages.csproj" />
+    <ProjectReference Include="..\..\Service\EventMessages\EventMessages.csproj" />
   </ItemGroup>
 
 </Project>

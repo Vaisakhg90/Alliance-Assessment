@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mghzS4OltnKXa8azFAI7bGL9g8LssgqQFNcplA4/wq+iAsmB6olZ8k0rGHx7ytmTdC7iXguWOvoNs/njh5CgFw==",
+  "dgSpecHash": "s19YGpw62k2etBGWr7GXxRZoN13y0CYLkpH0Irrj/ba7M8XDUkF5NJJ5nAZDDLsS12RiaLvQ8SWpUGOaxenL8w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AllianceAssessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
+  "projectFilePath": "C:\\Projects\\Alliance Assessment\\Server\\Service\\EventMessages\\EventMessages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vaisa\\.nuget\\packages\\easynetq\\6.3.1\\easynetq.6.3.1.nupkg.sha512",
     "C:\\Users\\vaisa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
